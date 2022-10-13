@@ -1,0 +1,5 @@
+﻿  home_3.c
+C:\Users\Dioneat\source\repos\homework_1\homework_3\home_3.c(167,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "int *"
+C:\Users\Dioneat\source\repos\homework_1\homework_3\home_3.c(167,9): warning C4313: printf: конфликт "%d" в строке формата с аргументом 1 типа "int *"
+C:\Users\Dioneat\source\repos\homework_1\homework_3\home_3.c(152,12): warning C4101: n: неиспользованная локальная переменная
+  homework_3.vcxproj -> C:\Users\Dioneat\source\repos\homework_1\x64\Debug\homework_3.exe
